@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+}
+/* banner */
+
+
+.header_logo{
+    width: 100%;
+    background: #000000;
+    display: flex;
+    justify-content: center; 
+}
+.grafic_logo{
+    padding: 5px;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+nav{
+    margin: auto;
+    width: 800px;
+    height: 100px;
+}
+.topnav{
+    margin-top: 40px;
+     font-size: 14px; 
+     text-transform: uppercase;
+}
+.topnav a{
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px ;
+    font-weight: bold;
+}
+.topnav_item:hover{
+    border-bottom: 3px solid #000000;
+  }
+.topnav .icon{
+    display: none;
+}
+
+.wrapper{
+    width: 76%;
+    margin: 0 auto;
+}
