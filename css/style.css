@@ -56,11 +56,3 @@ nav{
     margin: 0 auto;
 }
 
-@media screen and (max-width: 768px){
-    nav{
-        margin-left: 20%;
-    }
-    .topnav a{
-        font-size: 22px;
-    }
-}
