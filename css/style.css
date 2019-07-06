@@ -29,7 +29,7 @@ body{
 nav{
     margin: auto;
     width: 800px;
-    height: 100px;
+    height: 50px;
 }
 .topnav{
     margin-top: 40px;
@@ -54,6 +54,9 @@ nav{
 .wrapper{
     width: 76%;
     margin: 0 auto;
+}
+.main_welcome_foto{
+    max-width: 100%;
 }
 @media screen and (max-width: 768px){
     .topnav a:not(:first-child){
