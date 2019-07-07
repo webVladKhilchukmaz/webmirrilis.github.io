@@ -110,7 +110,7 @@ footer nav a:hover{
     color: white; 
     
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 6388px){
     .topnav a:not(:first-child){
         display: none;
     }
